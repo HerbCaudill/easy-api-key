@@ -37,6 +37,7 @@
   ],
   "scripts": {
     "build": "tsup",
+    "prepare": "tsup",
     "test": "vitest run",
     "test:watch": "vitest",
     "format": "prettier --write .",
