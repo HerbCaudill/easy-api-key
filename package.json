@@ -1,6 +1,6 @@
 {
   "name": "@herbcaudill/easy-api-key",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Password-encrypt API keys and secrets for bundling with your app",
   "type": "module",
   "main": "./dist/index.cjs",
